@@ -22,11 +22,11 @@ Example
 
 Input:
 
-Hello, world! Welcome to gfg.
+Hello, world! Welcome to github.
 
 Output:
 
-Hello world Welcome to gfg
+Hello world Welcome to github
 
 Use Cases:
 Cleaning text for NLP applications.
